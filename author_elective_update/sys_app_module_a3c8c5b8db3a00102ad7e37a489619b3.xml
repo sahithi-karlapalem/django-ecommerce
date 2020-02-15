@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Service Catalog">d128ead2c0a8016501c6bbd3f9c03678</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Repairs</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_404973_hoi_table</name>
+        <order>1</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-03 17:06:18</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a3c8c5b8db3a00102ad7e37a489619b3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Repairs</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Hoi" source="x_404973_hoi">a95681f4db3a00102ad7e37a48961957</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hoi">a95681f4db3a00102ad7e37a48961957</sys_scope>
+        <sys_update_name>sys_app_module_a3c8c5b8db3a00102ad7e37a489619b3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-03 17:06:18</sys_updated_on>
+        <timeline_page/>
+        <title>Repairs</title>
+        <uncancelable>false</uncancelable>
+        <view_name>Repairs</view_name>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Hoi">a95681f4db3a00102ad7e37a48961957</application>
+        <file_path/>
+        <instance_id>c0568a6adbc133c44d2bac44d4961948</instance_id>
+        <instance_name>dev84214</instance_name>
+        <name>sys_app_module_a3c8c5b8db3a00102ad7e37a489619b3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Service Catalog">d128ead2c0a8016501c6bbd3f9c03678</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Repairs</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_404973_hoi_table</name><order>1</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-02-03 17:06:18</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>a3c8c5b8db3a00102ad7e37a489619b3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Repairs</sys_name><sys_overrides/><sys_package display_value="Hoi" source="x_404973_hoi">a95681f4db3a00102ad7e37a48961957</sys_package><sys_policy/><sys_scope display_value="Hoi">a95681f4db3a00102ad7e37a48961957</sys_scope><sys_update_name>sys_app_module_a3c8c5b8db3a00102ad7e37a489619b3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-02-03 17:06:18</sys_updated_on><timeline_page/><title>Repairs</title><uncancelable>false</uncancelable><view_name>Repairs</view_name><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-1149516005</payload_hash>
+        <record_name>Repairs</record_name>
+        <reverted_from/>
+        <source>215645f4db3a00102ad7e37a489619eb</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-03 17:06:18</sys_created_on>
+        <sys_id>e32905b8db3a00102ad7e37a4896190d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1700c0461900000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-03 17:06:18</sys_updated_on>
+        <type>Module</type>
+        <update_guid>2f2905b8cb3a00103799c2918c1db40c</update_guid>
+        <update_guid_history>2f2905b8cb3a00103799c2918c1db40c:-1149516005</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Repairs">0e05088ddbb240102ad7e37a48961958</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-04 06:47:03</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>0ce044bf2b484ba0851bc8060ea4fac1</sys_id>
+        <sys_metadata>a3c8c5b8db3a00102ad7e37a489619b3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Repairs</sys_name>
+        <sys_package display_value="Hoi" source="x_404973_hoi">a95681f4db3a00102ad7e37a48961957</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Hoi">a95681f4db3a00102ad7e37a48961957</sys_scope>
+        <sys_scope_delete display_value="">7052f335c2ca4110b43fd105250f27c4</sys_scope_delete>
+        <sys_update_name>sys_app_module_a3c8c5b8db3a00102ad7e37a489619b3</sys_update_name>
+        <sys_update_version display_value="sys_app_module_a3c8c5b8db3a00102ad7e37a489619b3">e32905b8db3a00102ad7e37a4896190d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-04 06:47:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

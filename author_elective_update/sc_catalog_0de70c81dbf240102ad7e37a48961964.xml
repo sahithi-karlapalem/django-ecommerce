@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog">
+    <sc_catalog action="DELETE">
+        <active>true</active>
+        <background_color>white</background_color>
+        <description>All your repairs</description>
+        <desktop_continue_shopping/>
+        <desktop_home_page/>
+        <desktop_image/>
+        <editors/>
+        <enable_wish_list>false</enable_wish_list>
+        <manager display_value="RAM ">550744cddbb240102ad7e37a48961964</manager>
+        <sys_class_name>sc_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-04 07:00:50</sys_created_on>
+        <sys_id>0de70c81dbf240102ad7e37a48961964</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Repairs</sys_name>
+        <sys_package display_value="Hoi" source="x_404973_hoi">a95681f4db3a00102ad7e37a48961957</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hoi">a95681f4db3a00102ad7e37a48961957</sys_scope>
+        <sys_update_name>sc_catalog_0de70c81dbf240102ad7e37a48961964</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-04 07:00:50</sys_updated_on>
+        <title>Repairs</title>
+    </sc_catalog>
+    <sys_translated_text action="DELETE" query="documentkey=0de70c81dbf240102ad7e37a48961964"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Hoi">a95681f4db3a00102ad7e37a48961957</application>
+        <file_path/>
+        <instance_id>c0568a6adbc133c44d2bac44d4961948</instance_id>
+        <instance_name>dev84214</instance_name>
+        <name>sc_catalog_0de70c81dbf240102ad7e37a48961964</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog"><sc_catalog action="INSERT_OR_UPDATE"><active>true</active><background_color>white</background_color><description>All your repairs</description><desktop_continue_shopping/><desktop_home_page/><desktop_image/><editors/><enable_wish_list>false</enable_wish_list><manager display_value="RAM ">550744cddbb240102ad7e37a48961964</manager><sys_class_name>sc_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-02-04 07:00:50</sys_created_on><sys_id>0de70c81dbf240102ad7e37a48961964</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Repairs</sys_name><sys_package display_value="Hoi" source="x_404973_hoi">a95681f4db3a00102ad7e37a48961957</sys_package><sys_policy/><sys_scope display_value="Hoi">a95681f4db3a00102ad7e37a48961957</sys_scope><sys_update_name>sc_catalog_0de70c81dbf240102ad7e37a48961964</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-02-04 07:00:50</sys_updated_on><title>Repairs</title></sc_catalog><sys_translated_text action="delete_multiple" query="documentkey=0de70c81dbf240102ad7e37a48961964"/></record_update>]]></payload>
+        <payload_hash>-116597403</payload_hash>
+        <record_name>Repairs</record_name>
+        <reverted_from/>
+        <source>215645f4db3a00102ad7e37a489619eb</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-04 07:00:52</sys_created_on>
+        <sys_id>203880c1dbf240102ad7e37a48961963</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1700f0073320000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-04 07:00:52</sys_updated_on>
+        <type>Catalog</type>
+        <update_guid>683880c188f2401078351a32485d6662</update_guid>
+        <update_guid_history>683880c188f2401078351a32485d6662:-116597403</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Repairs">01190005dbf240102ad7e37a48961994</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-04 07:04:43</sys_created_on>
+        <sys_db_object display_value="" name="sc_catalog">sc_catalog</sys_db_object>
+        <sys_id>78a6b038a777499cb8f3af30fdb11444</sys_id>
+        <sys_metadata>0de70c81dbf240102ad7e37a48961964</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Repairs</sys_name>
+        <sys_package display_value="Hoi" source="x_404973_hoi">a95681f4db3a00102ad7e37a48961957</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Hoi">a95681f4db3a00102ad7e37a48961957</sys_scope>
+        <sys_scope_delete display_value="">7052f335c2ca4110b43fd105250f27c4</sys_scope_delete>
+        <sys_update_name>sc_catalog_0de70c81dbf240102ad7e37a48961964</sys_update_name>
+        <sys_update_version display_value="sc_catalog_0de70c81dbf240102ad7e37a48961964">203880c1dbf240102ad7e37a48961963</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-04 07:04:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

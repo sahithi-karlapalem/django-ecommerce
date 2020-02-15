@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog_view_mtom">
+    <sc_catalog_view_mtom action="DELETE">
+        <default>true</default>
+        <sc_catalog display_value="Repairs">8e67cd38db3a00102ad7e37a4896199f</sc_catalog>
+        <sys_class_name>sc_catalog_view_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-03 16:58:45</sys_created_on>
+        <sys_id>3477cd38db3a00102ad7e37a489619aa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Repairs.catalog_repairs</sys_name>
+        <sys_package display_value="Hoi" source="x_404973_hoi">a95681f4db3a00102ad7e37a48961957</sys_package>
+        <sys_policy/>
+        <sys_portal_page display_value="catalog_repairs">f877cd38db3a00102ad7e37a489619a8</sys_portal_page>
+        <sys_scope display_value="Hoi">a95681f4db3a00102ad7e37a48961957</sys_scope>
+        <sys_update_name>sc_catalog_view_mtom_3477cd38db3a00102ad7e37a489619aa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-03 16:58:45</sys_updated_on>
+    </sc_catalog_view_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Hoi">a95681f4db3a00102ad7e37a48961957</application>
+        <file_path/>
+        <instance_id>c0568a6adbc133c44d2bac44d4961948</instance_id>
+        <instance_name>dev84214</instance_name>
+        <name>sc_catalog_view_mtom_3477cd38db3a00102ad7e37a489619aa</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog_view_mtom"><sc_catalog_view_mtom action="INSERT_OR_UPDATE"><default>true</default><sc_catalog display_value="Repairs">8e67cd38db3a00102ad7e37a4896199f</sc_catalog><sys_class_name>sc_catalog_view_mtom</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-02-03 16:58:45</sys_created_on><sys_id>3477cd38db3a00102ad7e37a489619aa</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Repairs.catalog_repairs</sys_name><sys_package display_value="Hoi" source="x_404973_hoi">a95681f4db3a00102ad7e37a48961957</sys_package><sys_policy/><sys_portal_page display_value="catalog_repairs">f877cd38db3a00102ad7e37a489619a8</sys_portal_page><sys_scope display_value="Hoi">a95681f4db3a00102ad7e37a48961957</sys_scope><sys_update_name>sc_catalog_view_mtom_3477cd38db3a00102ad7e37a489619aa</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-02-03 16:58:45</sys_updated_on></sc_catalog_view_mtom></record_update>]]></payload>
+        <payload_hash>-1820133070</payload_hash>
+        <record_name>Repairs.catalog_repairs</record_name>
+        <reverted_from/>
+        <source>215645f4db3a00102ad7e37a489619eb</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-03 16:58:45</sys_created_on>
+        <sys_id>b0770178db3a00102ad7e37a4896194e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1700bfd779f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-03 16:58:45</sys_updated_on>
+        <type>Catalog Portal Page</type>
+        <update_guid>3077cd38623a00105f5a5244565b3dac</update_guid>
+        <update_guid_history>3077cd38623a00105f5a5244565b3dac:-1820133070</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Repairs.catalog_repairs">3b54884ddbb240102ad7e37a489619f1</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-04 06:44:10</sys_created_on>
+        <sys_db_object display_value="" name="sc_catalog_view_mtom">sc_catalog_view_mtom</sys_db_object>
+        <sys_id>2dab9a234e0d44a88bb6c550a2dc7440</sys_id>
+        <sys_metadata>3477cd38db3a00102ad7e37a489619aa</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Repairs.catalog_repairs</sys_name>
+        <sys_package display_value="Hoi" source="x_404973_hoi">a95681f4db3a00102ad7e37a48961957</sys_package>
+        <sys_parent display_value="">8e67cd38db3a00102ad7e37a4896199f</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Hoi">a95681f4db3a00102ad7e37a48961957</sys_scope>
+        <sys_scope_delete display_value="">7052f335c2ca4110b43fd105250f27c4</sys_scope_delete>
+        <sys_update_name>sc_catalog_view_mtom_3477cd38db3a00102ad7e37a489619aa</sys_update_name>
+        <sys_update_version display_value="sc_catalog_view_mtom_3477cd38db3a00102ad7e37a489619aa">b0770178db3a00102ad7e37a4896194e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-04 06:44:10</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_category">
+    <sc_category action="DELETE">
+        <active>true</active>
+        <description>All your services</description>
+        <entitlement_script/>
+        <header_icon/>
+        <homepage_image/>
+        <homepage_renderer display_value="Category Items">47ebe8aa3742300054b6a3549dbe5dfa</homepage_renderer>
+        <icon/>
+        <image/>
+        <location display_value="India">fca681f5931631003b4bb095e57ffb8d</location>
+        <mobile_hide_description>false</mobile_hide_description>
+        <mobile_picture/>
+        <mobile_subcategory_render_type>list</mobile_subcategory_render_type>
+        <module/>
+        <order>0</order>
+        <parent display_value="Services">109f0438c6112276003ae8ac13e7009d</parent>
+        <roles/>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-04 06:53:19</sys_created_on>
+        <sys_id>2a268c01dbf240102ad7e37a489619f5</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Home Appliances</sys_name>
+        <sys_package display_value="Hoi" source="x_404973_hoi">a95681f4db3a00102ad7e37a48961957</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hoi">a95681f4db3a00102ad7e37a48961957</sys_scope>
+        <sys_update_name>sc_category_2a268c01dbf240102ad7e37a489619f5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-04 07:00:10</sys_updated_on>
+        <title>Home Appliances</title>
+    </sc_category>
+    <sys_translated_text action="DELETE" query="documentkey=2a268c01dbf240102ad7e37a489619f5"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Hoi">a95681f4db3a00102ad7e37a48961957</application>
+        <file_path/>
+        <instance_id>c0568a6adbc133c44d2bac44d4961948</instance_id>
+        <instance_name>dev84214</instance_name>
+        <name>sc_category_2a268c01dbf240102ad7e37a489619f5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_category"><sc_category action="INSERT_OR_UPDATE"><active>true</active><description>All your services</description><entitlement_script/><header_icon/><homepage_image/><homepage_renderer display_value="Category Items">47ebe8aa3742300054b6a3549dbe5dfa</homepage_renderer><icon/><image/><location display_value="India">fca681f5931631003b4bb095e57ffb8d</location><mobile_hide_description>false</mobile_hide_description><mobile_picture/><mobile_subcategory_render_type>list</mobile_subcategory_render_type><module/><order>0</order><parent display_value="Services">109f0438c6112276003ae8ac13e7009d</parent><roles/><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-02-04 06:53:19</sys_created_on><sys_id>2a268c01dbf240102ad7e37a489619f5</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Home Appliances</sys_name><sys_package display_value="Hoi" source="x_404973_hoi">a95681f4db3a00102ad7e37a48961957</sys_package><sys_policy/><sys_scope display_value="Hoi">a95681f4db3a00102ad7e37a48961957</sys_scope><sys_update_name>sc_category_2a268c01dbf240102ad7e37a489619f5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-02-04 07:00:10</sys_updated_on><title>Home Appliances</title></sc_category><sys_translated_text action="delete_multiple" query="documentkey=2a268c01dbf240102ad7e37a489619f5"/></record_update>]]></payload>
+        <payload_hash>477394607</payload_hash>
+        <record_name>Home Appliances</record_name>
+        <reverted_from/>
+        <source>215645f4db3a00102ad7e37a489619eb</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-04 07:00:11</sys_created_on>
+        <sys_id>26080c81dbf240102ad7e37a4896197c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1700effd2730000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-04 07:00:11</sys_updated_on>
+        <type>Category</type>
+        <update_guid>ae080c81e6f240109111daef1ae0ed7b</update_guid>
+        <update_guid_history>ae080c81e6f240109111daef1ae0ed7b:477394607,c6760441a2f24010fdef77dc6320af95:-1628605809</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Home Appliances">7ce84cc1dbf240102ad7e37a4896198d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-04 07:03:53</sys_created_on>
+        <sys_db_object display_value="" name="sc_category">sc_category</sys_db_object>
+        <sys_id>05d6163983094d6d8076e0f909182829</sys_id>
+        <sys_metadata>2a268c01dbf240102ad7e37a489619f5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Home Appliances</sys_name>
+        <sys_package display_value="Hoi" source="x_404973_hoi">a95681f4db3a00102ad7e37a48961957</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Hoi">a95681f4db3a00102ad7e37a48961957</sys_scope>
+        <sys_scope_delete display_value="">7052f335c2ca4110b43fd105250f27c4</sys_scope_delete>
+        <sys_update_name>sc_category_2a268c01dbf240102ad7e37a489619f5</sys_update_name>
+        <sys_update_version display_value="sc_category_2a268c01dbf240102ad7e37a489619f5">26080c81dbf240102ad7e37a4896197c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-04 07:03:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
